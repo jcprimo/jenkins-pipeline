@@ -1,0 +1,9 @@
+#ignore keys
+*.key
+*.pem
+*.lock.hcl
+
+# config file
+/.terraform
+
+# specific files
